@@ -1,5 +1,5 @@
 # PoE_UtilityExtra
-剔除在PoE_UtilityBundles之外，實用性沒那麼高的功能。以AutoHotKey編寫。
+PoE_UtilityBundles的額外功能，包含自動打開豐裕牌組、自動交易滿疊命運卡、自動點傳奇等，使用頻率不高的功能。可獨立運作，以AutoHotKey編寫。
 
 ## 按鍵說明
 
